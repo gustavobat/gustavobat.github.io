@@ -15,8 +15,9 @@ function Header() {
             style={{maxHeight: '30px'}}
             navbarScroll
           >
-            <Nav.Link href="#action1">Home</Nav.Link>
-            <Nav.Link href="#action2">Link</Nav.Link>
+            <Nav.Link href="#projects">Projects</Nav.Link>
+            <Nav.Link href="#contact">Contact</Nav.Link>
+            <Nav.Link href="#about">About</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
