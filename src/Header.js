@@ -1,15 +1,24 @@
 import {Navbar, Container, Nav} from 'react-bootstrap';
+import Plane from "./plane-logo-large.png";
 
 function Header() {
   return (
-    <Navbar>
+    <Navbar bg="light" expand="lg">
       <Container>
-        <Navbar.Brand href="#home">Navbar</Navbar.Brand>
-        <Nav className="me-auto">
-          <Nav.Link href="#home">Home</Nav.Link>
-          <Nav.Link href="#features">Features</Nav.Link>
-          <Nav.Link href="#pricing">Pricing</Nav.Link>
-        </Nav>
+        <Navbar.Brand href="#">
+          <img src={Plane} height={40} alt="Plane Logo"/>
+        </Navbar.Brand>
+        <Navbar.Toggle aria-controls="navbarScroll"/>
+        <Navbar.Collapse id="navbarScroll" className="justify-content-end">
+          <Nav
+            className="justify-content-center"
+            style={{maxHeight: '30px'}}
+            navbarScroll
+          >
+            <Nav.Link href="#action1">Home</Nav.Link>
+            <Nav.Link href="#action2">Link</Nav.Link>
+          </Nav>
+        </Navbar.Collapse>
       </Container>
     </Navbar>
   );
