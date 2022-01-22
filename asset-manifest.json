@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.04179b6f.css",
-    "main.js": "/static/js/main.dd2a8792.js",
+    "main.js": "/static/js/main.ebfc9d3d.js",
     "static/js/787.392914bd.chunk.js": "/static/js/787.392914bd.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/plane-logo-large.png": "/static/media/plane-logo-large.e7fcf302fa1e0f7d0950.png",
     "index.html": "/index.html",
     "main.04179b6f.css.map": "/static/css/main.04179b6f.css.map",
-    "main.dd2a8792.js.map": "/static/js/main.dd2a8792.js.map",
+    "main.ebfc9d3d.js.map": "/static/js/main.ebfc9d3d.js.map",
     "787.392914bd.chunk.js.map": "/static/js/787.392914bd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.04179b6f.css",
-    "static/js/main.dd2a8792.js"
+    "static/js/main.ebfc9d3d.js"
   ]
 }
