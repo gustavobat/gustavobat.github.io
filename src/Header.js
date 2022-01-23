@@ -1,5 +1,5 @@
 import {Navbar, Container, Nav} from 'react-bootstrap';
-import Plane from "./plane-logo-large.png";
+import Plane from "./plane-logo-medium.png";
 
 function Header() {
   return (
