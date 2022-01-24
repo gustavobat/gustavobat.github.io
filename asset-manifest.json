@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.04179b6f.css",
-    "main.js": "/static/js/main.fa0a85b4.js",
+    "main.js": "/static/js/main.c8cc4624.js",
     "static/js/787.392914bd.chunk.js": "/static/js/787.392914bd.chunk.js",
-    "static/media/plane-logo-large.png": "/static/media/plane-logo-large.e7fcf302fa1e0f7d0950.png",
     "index.html": "/index.html",
     "main.04179b6f.css.map": "/static/css/main.04179b6f.css.map",
-    "main.fa0a85b4.js.map": "/static/js/main.fa0a85b4.js.map",
+    "main.c8cc4624.js.map": "/static/js/main.c8cc4624.js.map",
     "787.392914bd.chunk.js.map": "/static/js/787.392914bd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.04179b6f.css",
-    "static/js/main.fa0a85b4.js"
+    "static/js/main.c8cc4624.js"
   ]
 }
